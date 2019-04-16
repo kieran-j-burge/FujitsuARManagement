@@ -4,5 +4,5 @@
 Run My Process [Fujitsu subsidiary] - Project management Augmented Reality tool for Fujitsu subsidiary RunMyProcess
 
 # Tools
-Unity 
-Vuforia
+- Unity 
+- Vuforia
